@@ -1,0 +1,13 @@
+Primer Commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   fichero_A.txt
+#	new file:   fichero_B.txt
+#	new file:   fichero_C.txt
+#
